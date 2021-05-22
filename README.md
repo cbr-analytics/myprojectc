@@ -1,0 +1,3 @@
+
+WELCOME to my repository ...
+This is a auto-pilot mode commit from local to remote.
