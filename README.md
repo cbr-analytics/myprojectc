@@ -11,4 +11,6 @@ This is a auto-pilot mode commit from local to remote.
 
 Hello
 
-#This is a change from the branch featureX3 on line number 14.
+<<<<<<< HEAD
+#feature fixed on conflict on master branch by human intervention. 
+>>>>>>> featureX3
